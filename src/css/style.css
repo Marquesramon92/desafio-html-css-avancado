@@ -108,4 +108,7 @@ body {
     background-size: 100%;
     background-color: var(--bg-color);
   }
+  .header img {
+    width: 130px;
+  }
 }
